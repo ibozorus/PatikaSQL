@@ -1,3 +1,5 @@
+-- Ödev 1 | https://app.patika.dev/ibozorus
+
 SELECT title, description FROM film;
 
 SELECT * FROM film WHERE length < 75 AND length > 60;
